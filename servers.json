@@ -4,7 +4,7 @@
 			"url": "https://databox.me/",
 			"title": "databox.me",
 			"background": "#333748",
-			"icon": "https://databox.me/images/solid-logo.png",
+			"icon": "https://databox.me/logo.png",
 			"policyURL": "https://databox.me/privacy.html",
 			"description": "Databox.me is the first Solid-compliant, public and free service on which you can get a WebID and limited data storage.",
 			"btn_bg": "#43C47A",
