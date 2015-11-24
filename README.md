@@ -10,7 +10,7 @@ Here are the configuration options:
 * `url`: holds the URL of the service's signup app, to which the user will be redirected
 * `icon`: the URL of the image that will be used as logo for your service
 * `icon_bg`: the background color of a an element that contains the icon (e.g. a div, etc.), which typically follows the main theme color of your signup app (e.g. #000, or string - i.e. `blue`, or RGB values)
-* `title`: the title of your service -- e.g. RWW.IO, databox.me, etc.
+* `title`: the title of your service (e.g. RWW.IO, databox.me, etc.)
 * `title_color`: the color of the tile text (e.g. #fff)
 * `policyURL`: the URL of a page which lists the policies of your service (e.g. privacy, data reuse, etc.)
 * `description`: a short description of the service; usually the main features it offers (e.g. WebID, storage, inbox, etc.); for best results, try to limit the length of the text to **175** characters
