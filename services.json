@@ -1,0 +1,26 @@
+{
+	"idps": [
+		{
+			"url": "https://databox.me/",
+			"icon": "https://databox.me/logo.png",
+			"icon_bg": "#333748",
+			"title": "databox.me",
+			"title_color": "#fff",
+			"policyURL": "https://databox.me/privacy.html",
+			"description": "Databox.me is the first Solid-compliant, public and free service on which you can get a WebID and data storage (limited).",
+			"btn_bg": "#43C47A",
+			"btn_color": "#fff"
+		},
+		{
+			"url": "https://rww.io/signup/",
+			"icon": "https://rww.io/common/images/logo.svg",
+			"icon_bg": "#000",
+			"title": "RWW.IO",
+			"title_color": "#fff",
+			"policyURL": "",
+			"description": "RWW.IO is a read/write Linked Data service that is free (and open-source) for educational and personal use. It offers WebID accounts, certificates and 100MB of storage.",
+			"btn_bg": "#e7604a",
+			"btn_color": "#fff"
+		}
+	]
+}
