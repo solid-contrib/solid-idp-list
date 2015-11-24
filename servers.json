@@ -1,0 +1,11 @@
+{
+	"idps": [
+		{
+			"url": "https://databox.me/",
+			"title": "databox.me",
+			"icon": "https://databox.me/images/solid-logo.png",
+			"policyURL": "https://databox.me/privacy.html",
+			"description": "Databox.me is the first Solid-compliant, public and free service on which you can get a WebID and limited data storage."
+		}
+	]
+}
