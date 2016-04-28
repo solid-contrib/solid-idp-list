@@ -18,7 +18,7 @@
 			"title": "RWW.IO",
 			"title_color": "#fff",
 			"policyURL": "",
-			"description": "RWW.IO is a read/write Linked Data service that is free (and open-source) for educational and personal use. It offers WebID accounts, certificates and 100MB of storage.",
+			"description": "RWW.IO is a read/write Linked Data service that is free (and open-source) for personal use. It offers WebID accounts and 100MB of limited storage.",
 			"btn_bg": "#e7604a",
 			"btn_color": "#fff"
 		}
