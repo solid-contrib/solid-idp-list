@@ -10,17 +10,6 @@
 			"description": "Databox.me is the first Solid-compliant, public and free service on which you can get a WebID and data storage (limited).",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
-		},
-		{
-			"url": "https://rww.io/signup/",
-			"icon": "https://rww.io/common/images/logo.svg",
-			"icon_bg": "#000",
-			"title": "RWW.IO",
-			"title_color": "#fff",
-			"policyURL": "",
-			"description": "RWW.IO is a read/write Linked Data service that is free (and open-source) for personal use. It offers WebID accounts and 100MB of limited storage.",
-			"btn_bg": "#e7604a",
-			"btn_color": "#fff"
 		}
 	]
 }
