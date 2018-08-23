@@ -1,6 +1,17 @@
 {
 	"idps": [
 		{
+			"url": "https://solidtest.space",
+			"icon": "https://databox.me/logo.png",
+			"icon_bg": "#333748",
+			"title": "solidtest.space",
+			"title_color": "#fff",
+			"policyURL": "https://solidtest.space",
+			"description": "solidtest.space is a public public test server for solid.  It allows you to obtain solid space, and also provisions you solid identity.",
+			"btn_bg": "#43C47A",
+			"btn_color": "#fff"
+		},
+		{
 			"url": "https://databox.me/",
 			"icon": "https://databox.me/logo.png",
 			"icon_bg": "#333748",
