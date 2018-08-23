@@ -10,17 +10,6 @@
 			"description": "solidtest.space is a public test server for solid.  It allows you to obtain solid space, and also provisions you solid identity.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
-		},
-		{
-			"url": "https://databox.me/",
-			"icon": "https://databox.me/logo.png",
-			"icon_bg": "#333748",
-			"title": "databox.me",
-			"title_color": "#fff",
-			"policyURL": "https://databox.me/privacy.html",
-			"description": "Databox.me is the first Solid-compliant, public and free service on which you can get a WebID and data storage (limited).",
-			"btn_bg": "#43C47A",
-			"btn_color": "#fff"
 		}
 	]
 }
