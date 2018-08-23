@@ -1,6 +1,17 @@
 {
 	"idps": [
 		{
+			"url": "https://solid.community/",
+			"icon": "https://databox.me/logo.png",
+			"icon_bg": "#333748",
+			"title": "solid.community",
+			"title_color": "#fff",
+			"policyURL": "solid.community",
+			"description": "solid.community is a public server for early adopters of Solid. It gives you solid storage space, and also a solid identity.",
+			"btn_bg": "#43C47A",
+			"btn_color": "#fff"
+		},
+		{
 			"url": "https://solidtest.space/",
 			"icon": "https://databox.me/logo.png",
 			"icon_bg": "#333748",
