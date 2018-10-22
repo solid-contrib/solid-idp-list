@@ -2,7 +2,7 @@
 	"idps": [
 		{
 			"url": "https://solid.community/",
-			"icon": "https://databox.me/logo.png",
+			"icon": "https://solid.inrupt.com/themes/custom/solid/logo.svg",
 			"icon_bg": "#333748",
 			"title": "solid.community",
 			"title_color": "#fff",
@@ -13,7 +13,7 @@
 		},
 		{
 			"url": "https://solidtest.space/",
-			"icon": "https://databox.me/logo.png",
+			"icon": "https://solid.inrupt.com/themes/custom/solid/logo.svg",
 			"icon_bg": "#333748",
 			"title": "solidtest.space",
 			"title_color": "#fff",
