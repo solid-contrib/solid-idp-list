@@ -11,7 +11,7 @@
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
 |https://solidtest.space|?? | ?? |         ??          |          ??       |
 |https://solid.authing.cn|?? | ?? |         ??          |          ??       |
-| https://solidweb.org         |                         [Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          | 
+| https://solidweb.org         |                         [Matthias Evering](https://github.com/ewingson)                      |[Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          | 
 		
 ## Adding Your Solid Identity Provider Service
 
