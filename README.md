@@ -1,6 +1,11 @@
 # List of Solid-compliant identity providers
 [![](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid)
 
+|               Link                |    Responsible for Domain Name and Terms of Use     |             Responsible for Hosting               | Location of Hosting | Solid Server Version |
+|-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
+| https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          NSS 4.x          |
+| https://solid.community/| ?? | ?? |         ??          |           NSS 4.x          |
+
 ## Adding your own service
 
 The identity providers list allows public Solid-compliant services to gain some exposure, by making themselves discoverable. The configuration options allows the owner of each service to personalize how their respective card will look like, when applications consume this list. An example of such an app can be found at https://solid.github.io/solid-idps/.
