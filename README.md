@@ -7,11 +7,11 @@
 | https://solid.community/| ?? | ?? |         ??          |          NSS 4.x       |
 
 # Experimental Solid Identity Servers
-|               Link                |    Responsible for Domain Name and Terms of Use     |             Responsible for Hosting               | Location of Hosting | Solid Server Version |
-|-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
-|https://solidtest.space|?? | ?? |         ??          |          ??       |
-|https://solid.authing.cn|?? | ?? |         ??          |          ??       |
-| https://solidweb.org         |                         [Matthias Evering](https://github.com/ewingson)                      |[Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          | 
+| Link | Responsible for Hosting | Location of Hosting | Solid Server Version |
+|---------------|-------------|------------|--------------|
+|https://solidtest.space|?? |          ??          |          ??       |
+|https://solid.authing.cn|?? |         ??          |          ??       |
+| https://solidweb.org   |        [Matthias Evering](https://github.com/ewingson)     |   Germany |   NSS 5.x   | 
 		
 ## Adding Your Solid Identity Provider Service
 
