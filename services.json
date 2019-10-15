@@ -6,7 +6,7 @@
 			"icon_bg": "#ffffff",
 			"title": "inrupt.net",
 			"title_color": "#fff",
-			"policyURL": "inrupt.net",
+			"policyURL": "https://inrupt.net",
 			"description": "inrupt.net is a public server provided by Inrupt, Inc.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
@@ -17,7 +17,7 @@
 			"icon_bg": "#333748",
 			"title": "solid.community",
 			"title_color": "#fff",
-			"policyURL": "solid.community",
+			"policyURL": "https://solid.community",
 			"description": "solid.community is a public server for early adopters of Solid.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
