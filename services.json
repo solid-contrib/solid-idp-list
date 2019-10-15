@@ -43,6 +43,17 @@
 			"description": "solid.authing is a public solid server deployed in China",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
-		}		
+		},
+		{
+			"url": "https://solid.blockcasting.io/",
+			"icon": "https://solid.blockcasting.io/blockcasting_logo.png",
+			"icon_bg": "#ffffff",
+			"title": "solid.blockcasting",
+			"title_color": "#fff",
+			"policyURL": "https://solid.blockcasting.io",
+			"description": "solid.blockcasting is a public solid server deployed in Tokyo by Blockcasting Corp, http://blockcasting.io",
+			"btn_bg": "#43C47A",
+			"btn_color": "#fff"
+		}
 	]
 }
