@@ -11,8 +11,9 @@
 |---------------|-------------|------------|--------------|
 |https://solidtest.space|?? |          ??          |          ??       |
 |https://solid.authing.cn|?? |         ??          |          ??       |
-| https://solidweb.org   |        [Matthias Evering](https://github.com/ewingson)     |   Germany |   NSS 5.x   | 
-		
+| https://solidweb.org   |        [Matthias Evering](https://github.com/ewingson)     |   Germany |   NSS 5.x   |
+|https://podware.org   |[Alessandra Donnini](https://github.com/etcware)|   Italy |   NSS 5.x   |
+
 ## Adding Your Solid Identity Provider Service
 
 The identity providers list allows public Solid-compliant services to gain some exposure, by making themselves discoverable. The configuration options allows the owner of each service to personalize how their respective card will look like, when applications consume this list. An example of such an app can be found at https://solid.github.io/solid-idps/.
