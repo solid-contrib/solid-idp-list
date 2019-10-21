@@ -54,6 +54,18 @@
 			"description": "solid.blockcasting is a public solid server deployed in Tokyo by Blockcasting Corp, http://blockcasting.io",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
-		}
+		},
+		{
+                        "url": "https://pod.celestialtech.ca/",
+                        "icon": "https://www.celestialtech.ca/celesital.png",
+                        "icon_bg": "#ffffff",
+                        "title": "pod.celestialtech.ca",
+                        "title_color": "#fff",
+                        "policyURL": "https://pod.celestialtech.ca",
+                        "description": "Celestialtech POD is a public solid server deployed in Canada by Celestialtech, https://www.celestialtech.ca",
+                        "btn_bg": "#43C47A",
+                        "btn_color": "#fff"
+                }
+
 	]
 }
