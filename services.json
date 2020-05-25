@@ -23,13 +23,24 @@
 			"btn_color": "#fff"
 		},
 		{
-			"url": "https://solidtest.space/",
+			"url": "https://dev.inrupt.net/",
 			"icon": "https://solid.inrupt.com/themes/custom/solid/logo.svg",
 			"icon_bg": "#333748",
-			"title": "solidtest.space",
+			"title": "dev.inrupt.net",
 			"title_color": "#fff",
-			"policyURL": "https://solidtest.space",
-			"description": "solidtest.space is a public test server for Solid.",
+			"policyURL": "https://inrupt.net",
+			"description": "dev.inrupt.net is a public development Server of Inrupt, Inc.",
+			"btn_bg": "#43C47A",
+			"btn_color": "#fff"
+		},
+		{
+			"url": "https://solidweb.org/",
+			"icon": "https://www.serverproject.de/logo2.png",
+			"icon_bg": "#333748",
+			"title": "solidweb.org",
+			"title_color": "#fff",
+			"policyURL": "https://www.serverproject.de/files/solidweb_org_terms.txt",
+			"description": "solidweb.org is a public Solid server based in Germany which is in an experimental state.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
 		},
@@ -43,29 +54,7 @@
 			"description": "solid.authing is a public solid server deployed in China",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
-		},
-		{
-			"url": "https://solid.blockcasting.io/",
-			"icon": "https://solid.blockcasting.io/blockcasting_logo.png",
-			"icon_bg": "#ffffff",
-			"title": "solid.blockcasting",
-			"title_color": "#fff",
-			"policyURL": "https://solid.blockcasting.io",
-			"description": "solid.blockcasting is a public solid server deployed in Tokyo by Blockcasting Corp, http://blockcasting.io",
-			"btn_bg": "#43C47A",
-			"btn_color": "#fff"
-		},
-		{
-                        "url": "https://pod.celestialtech.ca/",
-                        "icon": "https://www.celestialtech.ca/celesital.png",
-                        "icon_bg": "#ffffff",
-                        "title": "pod.celestialtech.ca",
-                        "title_color": "#fff",
-                        "policyURL": "https://pod.celestialtech.ca",
-                        "description": "Celestialtech POD is a public solid server deployed in Canada by Celestialtech, https://www.celestialtech.ca",
-                        "btn_bg": "#43C47A",
-                        "btn_color": "#fff"
-                }
-
+		}
+		
 	]
 }
