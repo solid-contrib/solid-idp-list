@@ -54,6 +54,17 @@
 			"description": "solid.authing is a public solid server deployed in China",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
+		},
+		{
+			"url": "https://solid.open.ac.uk/",
+			"icon": "https://www.liberaldictionary.com/wp-content/uploads/2018/12/open-university.png",
+			"icon_bg": "#333748",
+			"title": "solid.open.ac.uk",
+			"title_color": "#fff",
+			"policyURL": "http://www.open.ac.uk/",
+			"description": "solid.open.ac.uk is a public Solid server based in the UK",
+			"btn_bg": "#43C47A",
+			"btn_color": "#fff"
 		}
 		
 	]
