@@ -7,7 +7,7 @@
 			"title": "inrupt.net",
 			"title_color": "#fff",
 			"policyURL": "https://inrupt.net",
-			"description": "inrupt.net is a public server provided by Inrupt, Inc.",
+			"description": "inrupt.net is a public Solid server provided by Inrupt, Inc.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
 		},
@@ -18,7 +18,7 @@
 			"title": "solid.community",
 			"title_color": "#fff",
 			"policyURL": "https://solid.community",
-			"description": "solid.community is a public server for early adopters of Solid.",
+			"description": "solid.community is a public Solid server for early adopters of Solid.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
 		},
@@ -29,7 +29,7 @@
 			"title": "dev.inrupt.net",
 			"title_color": "#fff",
 			"policyURL": "https://inrupt.net",
-			"description": "dev.inrupt.net is a public development Server of Inrupt, Inc.",
+			"description": "dev.inrupt.net is a public Solid development server of Inrupt, Inc.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
 		},
@@ -51,7 +51,7 @@
 			"title": "solid.authing",
 			"title_color": "#fff",
 			"policyURL": "https://solid.authing.cn",
-			"description": "solid.authing is a public solid server deployed in China",
+			"description": "solid.authing is a public Solid server deployed in China.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
 		},
@@ -61,8 +61,8 @@
 			"icon_bg": "#333748",
 			"title": "solid.open.ac.uk",
 			"title_color": "#fff",
-			"policyURL": "http://www.open.ac.uk/",
-			"description": "solid.open.ac.uk is a public Solid server based in the UK",
+			"policyURL": "http://www.open.ac.uk",
+			"description": "solid.open.ac.uk is a public Solid server based in the UK.",
 			"btn_bg": "#43C47A",
 			"btn_color": "#fff"
 		}
